@@ -1,0 +1,10 @@
+{
+    "name":"Cool Mod 3000",
+    "dependencies":[],
+    "youtube": "https://www.youtube.com/watch?v=z7_pVrIshxA",
+    "platform": "wii",
+    "game":"EM1",
+    "custom_textures_path": "textures",
+    "custom_game_files_path": "files",
+    "icon_path": "icon.png"
+}
